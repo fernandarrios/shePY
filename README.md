@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/84234173/118374054-70f5b100-b590-11eb-830f-81701c6050f6.png)
+
+
 # shePY
 Aulas do curso de Python para mulheres ministrado pela @mariacmartins, tendo como objetivo do uso de python na Ciência de dados.
 
