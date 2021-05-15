@@ -1,5 +1,5 @@
 # shePY
-Aulas do curso de Python para mulheres ministrado pela @mariacmartins, tendo o objetivo do uso de python na Ciência de dados.
+Aulas do curso de Python para mulheres ministrado pela @mariacmartins, tendo como objetivo do uso de python na Ciência de dados.
 
 As aulas são ministradas via Google Meets, usando o Google Colab. 
 
