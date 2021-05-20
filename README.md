@@ -8,6 +8,13 @@ As aulas são ministradas via Google Meets, usando o Google Colab.
 
 Aulas toda quinta e sábado, começando no dia 06/05/2021 até o dia 12/06/2021.
 
+| Aula |    Conteúdo                                               |
+| ------ | --------------------------------------------------------|  
+| Aula 1 | Iniciando na programação com Python e Google Colab      |
+| Aula 2 | String, Listas, Tuplas e Dicionários                    |
+| Aula 3 | Estruturas Condicionais                                 |
+| Aula 4 | Numpy e Introdução à Estatística                        |                      
+| Aula 5 | Visualização de Dados - Top 50 músicas do Spotify
 
 
 *logo criado pela @mariacmartins*
