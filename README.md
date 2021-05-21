@@ -10,7 +10,7 @@ Aulas toda quinta e sábado, começando no dia 06/05/2021 até o dia 12/06/2021.
 
 | Aula |    Conteúdo                                               |   Dia    |
 | ------ | --------------------------------------------------------|----------|  
-| Aula 1 | Iniciando na programação com Python e Google Colab      |06/05/2021|
+| Aula 1 | Iniciando na programação com Python e Google Collab     |06/05/2021|
 | Aula 2 | String, Listas, Tuplas e Dicionários                    |08/05/2021|
 | Aula 3 | Estruturas Condicionais                                 |13/05/2021|
 | Aula 4 | Numpy e Introdução à Estatística                        |15/05/2021|                    
