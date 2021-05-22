@@ -15,6 +15,7 @@ Aulas toda quinta e sábado, começando no dia 06/05/2021 até o dia 12/06/2021.
 | Aula 3 | Estruturas Condicionais                                 |13/05/2021|
 | Aula 4 | Numpy e Introdução à Estatística                        |15/05/2021|                    
 | Aula 5 | Visualização de Dados - Top 50 músicas do Spotify       |20/05/2021|
+| Aula 6| Análise de dados - Eleições dos EUA                      |22/05/2021|
 
 
 *logo criado pela @mariacmartins*
