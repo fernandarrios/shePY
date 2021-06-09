@@ -20,6 +20,6 @@ Aulas toda quinta e sábado, começando no dia 06/05/2021 até o dia 12/06/2021.
 | Aula 8 | ML - Classificação - Aula 1                             |29/05/2021|
 | Aula 9 | ML - Classificação - Aula 2                             |03/06/2021|
 | Aula 10| Introdução à Visão Computacional                        |05/06/2021|
-| Aula 11| Apresentação do Desafio Final                           |12/06/2021|
+| Aula 11| [Apresentação do Desafio Final](https://github.com/fernandarrios/desafio.cinemaeliteratura)|12/06/2021|
 
 *logo criado pela @mariacmartins*
